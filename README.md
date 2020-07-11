@@ -11,7 +11,9 @@ Why choose SpectatorTools over Vanilla Tweaks?
  - Easily accessible through one chat menu
 
 ## Compatability table
-
+|  |1.16 to 1.16.2|
+|--|--
+|dev|✅
 
 ## Performance
-MSPT comparison
+Currently a shell - proformance impact is minimal ;)
